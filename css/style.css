@@ -1,0 +1,41 @@
+.inner {
+    margin: 15px;
+    color: blue;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+}
+
+.container {
+    position: relative;
+    display: flex;
+}
+
+.catch_copy {
+    position: absolute;
+    top: 400px;
+    left: 0px;
+    font-size: 45px;
+}
+
+.firstview {
+    position: absolute;
+    top: 45px;
+    right: 0px;
+}
+
+.firstview img{
+    width: 75%;
+    height: auto;
+}
+
+.flex {
+    display: flex;
+    width: 1000px;
+    height: 200px;
+    background-color: blue;
+}
