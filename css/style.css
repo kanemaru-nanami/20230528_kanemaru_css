@@ -13,6 +13,7 @@ ul {
 .container {
     position: relative;
     display: flex;
+    
 }
 
 .catch_copy {
@@ -26,16 +27,13 @@ ul {
     position: absolute;
     top: 45px;
     right: 0px;
-}
-
-.firstview img{
-    width: 100％;
+    width: 75%;
     height: auto;
 }
 
 .flex {
     display: flex;
-    width: 1000px;
+    width: 900px;
     height: 200px;
     background-color: blue;
 }
