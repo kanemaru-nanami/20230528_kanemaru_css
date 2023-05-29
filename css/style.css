@@ -17,15 +17,15 @@
 }
 .catch_copy {
     position: absolute;
-    top: 600px;
+    top: 45vh;
     left: 0px;
     font-size: 45px;
 }
 .firstview {
     position: absolute;
-    top: 45px;
+    top: 10vh;
     right: 0px;
-    width: 75%;
+    width: 65%;
 }
 .flex {
     width: 900px;
