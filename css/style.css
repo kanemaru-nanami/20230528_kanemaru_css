@@ -5,34 +5,29 @@
     display: flex;
     justify-content: space-between;
 }
-
-ul {
+.menu {
     display: flex;
 }
-
+.item {
+    margin-left: 1em;
+}
 .container {
     position: relative;
     display: flex;
     
 }
-
 .catch_copy {
     position: absolute;
     top: 550px;
     left: 0px;
     font-size: 45px;
 }
-
 .firstview {
     position: absolute;
     top: 45px;
     right: 0px;
-    width: 75%;
-    height: auto;
 }
-
 .flex {
-    display: flex;
     width: 900px;
     height: 200px;
     background-color: blue;
