@@ -14,11 +14,10 @@
 .container {
     position: relative;
     display: flex;
-    
 }
 .catch_copy {
     position: absolute;
-    top: 550px;
+    top: 600px;
     left: 0px;
     font-size: 45px;
 }
@@ -26,6 +25,7 @@
     position: absolute;
     top: 45px;
     right: 0px;
+    width: 75%;
 }
 .flex {
     width: 900px;
